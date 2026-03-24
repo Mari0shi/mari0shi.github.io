@@ -24,16 +24,16 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Andrew</o:Author>
   <o:LastAuthor>Martinez, Andrew</o:LastAuthor>
-  <o:Revision>10</o:Revision>
-  <o:TotalTime>32</o:TotalTime>
+  <o:Revision>9</o:Revision>
+  <o:TotalTime>29</o:TotalTime>
   <o:Created>2026-03-23T16:33:00Z</o:Created>
-  <o:LastSaved>2026-03-24T21:19:00Z</o:LastSaved>
+  <o:LastSaved>2026-03-23T19:05:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>1588</o:Words>
-  <o:Characters>7215</o:Characters>
-  <o:Lines>721</o:Lines>
+  <o:Words>1590</o:Words>
+  <o:Characters>7223</o:Characters>
+  <o:Lines>722</o:Lines>
   <o:Paragraphs>144</o:Paragraphs>
-  <o:CharactersWithSpaces>8659</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>8669</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -2580,8 +2580,8 @@ style='tab-interval:.5in;word-wrap:break-word'>
 </div>
 
 <p class=MsoTitle align=center style='margin-right:0in;mso-add-space:auto;
-text-align:center'><a href="https://mari0shi.github.io">Mari0shi's Tutorials
-&amp; Documentation</a></p>
+text-align:center'><a href="https://mari0shi.github.io">Mari0shi's Tutorials &amp;
+Documentation</a></p>
 
 <div style='margin-left:1.0in;margin-bottom:8.0pt'>
 
@@ -2596,8 +2596,7 @@ text-align:center'><a href="https://mari0shi.github.io">Mari0shi's Tutorials
 <p class=MsoNormal style='margin-right:0in'><span style='mso-bidi-font-size:
 14.0pt;line-height:115%'><o:p>&nbsp;</o:p></span></p>
 
-<h2 style='margin-right:0in'><span class=SpellE>BrawlInstaller</span> Git
-Tutorial</h2>
+<h2 style='margin-right:0in'><span class=SpellE>BrawlInstaller</span> Git Tutorial</h2>
 
 <h3 style='margin-right:0in'>Requires</h3>
 
@@ -2623,8 +2622,8 @@ mso-list:l3 level2 lfo2'><![if !supportLists]><span style='font-family:"Courier 
 mso-fareast-font-family:"Courier New"'><span style='mso-list:Ignore'>o<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]>This
 is recommended if you want a GUI, I personally use <span class=SpellE><span
-class=GramE>VSCodium</span></span> but other software alternatives exist. You
-can technically do everything described here without it.</p>
+class=GramE>VSCodium</span></span> but other software alternatives exist. You can
+technically do everything described here without it.</p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:1.5in;mso-add-space:auto;text-indent:-.25in;
@@ -2638,8 +2637,8 @@ for Windows</a></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:6.0pt;
 margin-left:1.0in'><i>This guide assumes you are running your build on Dolphin.
-Wii users will follow very similar steps except for some exceptions that are
-listed as they come up.<o:p></o:p></i></p>
+Wii users will follow very similar steps except for some exceptions that are listed
+as they come up.<o:p></o:p></i></p>
 
 <h3 style='margin-right:0in'>Installation</h3>
 
@@ -2657,8 +2656,8 @@ margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l12 level2 lfo4'><![if !supportLists]><span style='mso-bidi-font-family:
 Aptos;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>a.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>Either
-run the setup <span class=GramE>executable, or</span> extract the .zip file to
-a folder of your choice</p>
+run the setup <span class=GramE>executable, or</span> extract the .zip file to a
+folder of your choice</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:1.5in;mso-add-space:auto;text-indent:-.25in;
@@ -2691,8 +2690,7 @@ mso-text-indent-alt:-9.0pt;mso-list:l12 level3 lfo4'><![if !supportLists]><span
 style='mso-bidi-font-family:Aptos;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>ii.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>System Installer installs for every user on the
-computer</p>
+</span></span></span><![endif]>System Installer installs for every user on the computer</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.5in;mso-add-space:auto;text-indent:-2.5in;
@@ -2752,9 +2750,9 @@ mso-text-indent-alt:-9.0pt;mso-list:l12 level3 lfo4'><![if !supportLists]><span
 style='mso-bidi-font-family:Aptos;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>i.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Make sure &quot;Add to PATH (requires shell
-restart)&quot; is checked, it should be by default. The rest of the options are
-<span class=GramE>pretty self-explanatory</span> and up to you</p>
+</span></span></span><![endif]>Make sure “Add to PATH (requires shell restart)”
+is checked, it should be by default. The rest of the options are <span
+class=GramE>pretty self-explanatory</span> and up to you</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
@@ -2777,8 +2775,8 @@ margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l12 level2 lfo4'><![if !supportLists]><span style='mso-bidi-font-family:
 Aptos;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>a.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>I
-highly advise selecting the standalone installer unless you know what you're
-doing. Without it, you may not be able to run git commands system-wide</p>
+highly advise selecting the standalone installer unless you know what you're doing.
+Without it, you may not be able to run git commands system-wide</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto'><span
@@ -2788,12 +2786,12 @@ style='mso-ligatures:none;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pict
  <v:imagedata src="index_files/image003.png" o:title="" croptop="-332f"
   cropbottom="619f" cropleft="209f" cropright="-209f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=314 height=206
-src="index_files/image004.png" v:shapes="Picture_x0020_5"><![endif]></span></p>
+src="index_files/image041.png" v:shapes="Picture_x0020_5"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto'><span
-style='mso-no-proof:yes'>Select the correct Standalone Installer for your
-computer's architecture</span></p>
+style='mso-no-proof:yes'>Select the correct Standalone Installer for your computer's
+architecture</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
@@ -2817,8 +2815,7 @@ mso-text-indent-alt:-9.0pt;mso-list:l12 level3 lfo4'><![if !supportLists]><span
 style='mso-bidi-font-family:Aptos;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>i.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Make sure Git LFS is checked, it should be by
-default</p>
+</span></span></span><![endif]>Make sure Git LFS is checked, it should be by default</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.5in;mso-add-space:auto;text-indent:-2.5in;
@@ -2826,9 +2823,8 @@ mso-text-indent-alt:-9.0pt;mso-list:l12 level3 lfo4'><![if !supportLists]><span
 style='mso-bidi-font-family:Aptos;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>ii.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Unless you already have some sort of Bash
-installed onto windows, I recommend just keeping these options the way they
-are.</p>
+</span></span></span><![endif]>Unless you already have some sort of Bash installed
+onto windows, I recommend just keeping these options the way they are.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
@@ -2854,13 +2850,10 @@ style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&
 </span>i.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>If you're choosing to use <span class=SpellE>VSCodium</span>
 as this guide recommends, click on the drop-down and change the option to <span
-class=SpellE>VSCodium</span>, so it looks like this</p>
-
-<p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:8.0pt;margin-left:2.5in;mso-add-space:auto'><span
-style='mso-ligatures:none;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_8"
- o:spid="_x0000_i1053" type="#_x0000_t75" style='width:448.5pt;height:348pt;
- visibility:visible;mso-wrap-style:square'>
+class=SpellE>VSCodium</span>, so it looks like this<span style='mso-ligatures:
+none;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_8" o:spid="_x0000_i1053"
+ type="#_x0000_t75" style='width:448.5pt;height:348pt;visibility:visible;
+ mso-wrap-style:square'>
  <v:imagedata src="index_files/image007.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=598 height=464
 src="index_files/image007.png" v:shapes="Picture_x0020_8"><![endif]></span></p>
@@ -2887,8 +2880,8 @@ mso-text-indent-alt:-9.0pt;mso-list:l12 level3 lfo4'><![if !supportLists]><span
 style='mso-bidi-font-family:Aptos;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>i.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Functionally, you can just click next, but I
-personally like setting the initial branch to &quot;main&quot;. </p>
+</span></span></span><![endif]>Functionally, you can just click next, but I personally
+like setting the initial branch to “main”. </p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.5in;mso-add-space:auto;text-indent:-2.5in;
@@ -2929,8 +2922,8 @@ margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l12 level2 lfo4'><![if !supportLists]><span style='mso-bidi-font-family:
 Aptos;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>e.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>For
-every page after this, it's fine to just keep the default settings. The
-installer will begin and complete</p>
+every page after this, it's fine to just keep the default settings. The installer
+will begin and complete</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto'><span
@@ -2947,8 +2940,8 @@ mso-text-indent-alt:-9.0pt;mso-list:l12 level3 lfo4'><![if !supportLists]><span
 style='mso-bidi-font-family:Aptos;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>i.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='mso-no-proof:yes'>Uncheck &quot;View
-Release Notes&quot; unless you really want to view them, for some reason</span></p>
+</span></span></span><![endif]><span style='mso-no-proof:yes'>Uncheck “View Release
+Notes” unless you really want to view them, for some reason</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.5in;mso-add-space:auto;text-indent:-2.5in;
@@ -2963,8 +2956,8 @@ margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l12 level2 lfo4'><![if !supportLists]><span style='mso-bidi-font-family:
 Aptos;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>f.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-style='mso-no-proof:yes'>You now have BrawlInstaller, VSCodium, and Git for
-Windows installed onto your computer.</span></p>
+style='mso-no-proof:yes'>You now have BrawlInstaller, VSCodium, and Git for Windows
+installed onto your computer.</span></p>
 
 <h3 style='margin-right:0in'>Build Setup</h3>
 
@@ -2973,8 +2966,8 @@ margin-bottom:8.0pt;margin-left:1.5in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l11 level1 lfo6'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>If you already have a build set up without Git,
-I <i>highly</i> recommend starting from scratch.</p>
+</span></span></span><![endif]>If you already have a build set up without Git, I
+<i>highly</i> recommend starting from scratch.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:1.5in;mso-add-space:auto;text-indent:-.25in;
@@ -2984,8 +2977,8 @@ Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roma
 </span></span></span><![endif]>For the purposes of this tutorial, I am going to
 be using the latest <a
 href="https://github.com/KingJigglypuff/project-plus-ex/releases"><span
-class=SpellE>Project+EX</span></a> Dolphin/<span class=SpellE>Netplay</span>
-build as a base.</p>
+class=SpellE>Project+EX</span></a> Dolphin/<span class=SpellE>Netplay</span> build
+as a base.</p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
@@ -2993,30 +2986,30 @@ mso-list:l11 level2 lfo6'><![if !supportLists]><span style='font-family:"Courier
 mso-fareast-font-family:"Courier New"'><span style='mso-list:Ignore'>o<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span></span><![endif]>If
 you're editing REX, the steps should be pretty much the <span class=GramE>same,
-but</span> note that because of how humongous it is Git will take a long time
-to process changes. It's entirely possible though!</p>
+but</span> note that because of how humongous it is Git will take a long time to
+process changes. It's entirely possible though!</p>
 
 <h4 style='margin-right:0in;text-indent:.5in'><u>Setting up your repository<o:p></o:p></u></h4>
 
-<p class=MsoNormal style='margin-right:0in;text-indent:.5in'>A repository, in
-this context, is just a folder with extra features. As you get to know more
-about git, you'll realize its other uses.</p>
+<p class=MsoNormal style='margin-right:0in;text-indent:.5in'>A repository, in this
+context, is just a folder with extra features. As you get to know more about git,
+you'll realize its other uses.</p>
 
 <p class=MsoListParagraph style='margin-top:0in;margin-right:0in;margin-bottom:
 8.0pt;margin-left:1.75in;mso-add-space:auto;text-indent:-.25in;mso-list:l6 level1 lfo8'><![if !supportLists]><span
 style='mso-bidi-font-family:Aptos;mso-bidi-theme-font:minor-latin'><span
 style='mso-list:Ignore'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Create a folder somewhere sensible on your
-computer, and set it up like so</p>
+</span></span></span><![endif]>Create a folder somewhere sensible on your computer,
+and set it up like so</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;
-margin-left:1.75in'><span style='font-family:"Segoe UI Emoji",sans-serif;
+margin-left:1.5in'><span style='font-family:"Segoe UI Emoji",sans-serif;
 mso-ascii-font-family:"Arial Black";mso-hansi-font-family:"Arial Black";
 mso-char-type:symbol-ext;mso-symbol-font-family:"Segoe UI Emoji"'>&#128193;</span><span
 style='font-family:"Arial Black",sans-serif'>My Build<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:1.75in;line-height:normal'><span style='font-family:"Arial Black",sans-serif;
+margin-left:1.5in;line-height:normal'><span style='font-family:"Arial Black",sans-serif;
 mso-fareast-font-family:"MS Gothic";mso-bidi-font-family:"Times New Roman"'>&#9500;</span><span
 style='font-family:"Arial Black",sans-serif;mso-bidi-font-family:"Times New Roman"'>&#9472;&#9472;
 </span><span style='font-family:"Segoe UI Emoji",sans-serif;mso-ascii-font-family:
@@ -3025,27 +3018,27 @@ mso-symbol-font-family:"Segoe UI Emoji"'>&#128193;</span><span
 style='font-family:"Arial Black",sans-serif;mso-bidi-font-family:"Times New Roman"'>SD<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:1.25in;text-indent:.5in;line-height:normal'><span style='font-family:
-"Arial Black",sans-serif;mso-bidi-font-family:"Times New Roman"'>&#9492;&#9472;&#9472;
-</span><span style='font-family:"Segoe UI Emoji",sans-serif;mso-ascii-font-family:
-"Arial Black";mso-hansi-font-family:"Arial Black";mso-char-type:symbol-ext;
-mso-symbol-font-family:"Segoe UI Emoji"'>&#128193;</span><span
-style='font-family:"Arial Black",sans-serif;mso-bidi-font-family:"Times New Roman"'>Load<o:p></o:p></span></p>
+margin-left:1.5in;line-height:normal'><span style='font-family:"Arial Black",sans-serif;
+mso-bidi-font-family:"Times New Roman"'>&#9492;&#9472;&#9472; </span><span
+style='font-family:"Segoe UI Emoji",sans-serif;mso-ascii-font-family:"Arial Black";
+mso-hansi-font-family:"Arial Black";mso-char-type:symbol-ext;mso-symbol-font-family:
+"Segoe UI Emoji"'>&#128193;</span><span style='font-family:"Arial Black",sans-serif;
+mso-bidi-font-family:"Times New Roman"'>Load<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:2.0in;line-height:normal'><span style='font-family:"Arial Black",sans-serif;
-mso-bidi-font-family:"Times New Roman"'><span style='mso-spacerun:yes'> </span>&#9492;&#9472;&#9472;
-</span><span style='font-family:"Segoe UI Emoji",sans-serif;mso-ascii-font-family:
-"Arial Black";mso-hansi-font-family:"Arial Black";mso-char-type:symbol-ext;
-mso-symbol-font-family:"Segoe UI Emoji"'>&#128193;</span><span
+margin-left:1.5in;line-height:normal'><span style='font-family:"Arial Black",sans-serif;
+mso-bidi-font-family:"Times New Roman"'><span style='mso-spacerun:yes'>   
+</span>&#9492;&#9472;&#9472; </span><span style='font-family:"Segoe UI Emoji",sans-serif;
+mso-ascii-font-family:"Arial Black";mso-hansi-font-family:"Arial Black";
+mso-char-type:symbol-ext;mso-symbol-font-family:"Segoe UI Emoji"'>&#128193;</span><span
 style='font-family:"Arial Black",sans-serif;mso-bidi-font-family:"Times New Roman"'>Textures<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
-margin-left:2.0in;text-indent:.5in;line-height:normal'><span style='font-family:
-"Arial Black",sans-serif;mso-bidi-font-family:"Times New Roman"'>&#9492;&#9472;&#9472;
-</span><span style='font-family:"Segoe UI Emoji",sans-serif;mso-ascii-font-family:
-"Arial Black";mso-hansi-font-family:"Arial Black";mso-char-type:symbol-ext;
-mso-symbol-font-family:"Segoe UI Emoji"'>&#128193;</span><span
+margin-left:1.5in;line-height:normal'><span style='font-family:"Arial Black",sans-serif;
+mso-bidi-font-family:"Times New Roman"'><span style='mso-spacerun:yes'>       
+</span>&#9492;&#9472;&#9472; </span><span style='font-family:"Segoe UI Emoji",sans-serif;
+mso-ascii-font-family:"Arial Black";mso-hansi-font-family:"Arial Black";
+mso-char-type:symbol-ext;mso-symbol-font-family:"Segoe UI Emoji"'>&#128193;</span><span
 style='font-family:"Arial Black",sans-serif;mso-bidi-font-family:"Times New Roman"'>RSBE01<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
@@ -3055,8 +3048,8 @@ mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:1.5in'><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'>The view from &quot;My Build&quot; (Or whatever you chose to
-call it) should look like this<o:p></o:p></span></p>
+"Times New Roman"'>The view from “My Build” (Or whatever you chose to call it) should
+look like this<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:1.5in'><span style='font-family:"Aptos Display",sans-serif;
@@ -3094,9 +3087,9 @@ Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roma
 </span></span></span><![endif]><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
 "Times New Roman"'>This can also be done with <span class=SpellE>ImDisk</span>,
-or AIM Image tool, but I'm going to be using Dolphin. For Wii users, you'll
-have to erase your build from your SD Card and manually copy it over any time
-you want to update<o:p></o:p></span></p>
+or AIM Image tool, but I'm going to be using Dolphin. For Wii users, you'll have
+to erase your build from your SD Card and manually copy it over any time you want
+to update<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:139.5pt;mso-add-space:auto;text-indent:-139.5pt;
@@ -3111,7 +3104,7 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
 "Times New Roman"'>Open up</span></span><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'> Dolphin and click on &quot;Config&quot;<o:p></o:p></span></p>
+"Times New Roman"'> Dolphin and click on “Config”<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:2.0in;mso-add-space:auto'><span style='font-family:
@@ -3140,8 +3133,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 </span>II.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'>Navigate to &quot;Paths&quot; and change your &quot;Load
-Path:&quot; to the &quot;Load&quot; folder you created earlier.<o:p></o:p></span></p>
+"Times New Roman"'>Navigate to “Paths” and change your “Load Path:” to the “Load”
+folder you created earlier.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:2.0in;mso-add-space:auto'><span style='mso-no-proof:
@@ -3167,8 +3160,8 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 </span>III.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'>Navigate to &quot;Wii&quot; and set your &quot;SD Sync
-Folder&quot; to the SD folder you created earlier<o:p></o:p></span></p>
+"Times New Roman"'>Navigate to “Wii” and set your “SD Sync Folder” to the SD folder
+you created earlier<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
@@ -3177,7 +3170,7 @@ Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-fa
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'>Press &quot;Unpack SD Card Now&quot;<o:p></o:p></span></p>
+"Times New Roman"'>Press “Unpack SD Card Now”<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:2.0in;mso-add-space:auto'><span style='font-family:
@@ -3199,8 +3192,8 @@ Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-fa
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'>Click &quot;Yes&quot; when Dolphin warns you the folder's
-contents will be deleted. It should be empty anyways.<o:p></o:p></span></p>
+"Times New Roman"'>Click “Yes” when Dolphin warns you the folder's contents will
+be deleted. It should be empty anyways.<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:2.0in;mso-add-space:auto'><span style='font-family:
@@ -3248,8 +3241,8 @@ mso-fareast-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-fon
 "Aptos Display";mso-bidi-theme-font:major-latin'><span style='mso-list:Ignore'>3.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 style='font-family:"Aptos Display",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-font-family:"Times New Roman"'>Copy
-your base <span class=GramE>build's</span> HD Textures into your repository<o:p></o:p></span></p>
+mso-hansi-theme-font:major-latin;mso-bidi-font-family:"Times New Roman"'>Copy your
+base <span class=GramE>build's</span> HD Textures into your repository<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
@@ -3258,8 +3251,8 @@ Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-fa
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'>If they aren't available separately (like P+ or P+EX),
-they're typically in User -&gt; Load -&gt; Textures -&gt; RSBE01<o:p></o:p></span></p>
+"Times New Roman"'>If they aren't available separately (like P+ or P+EX), they're
+typically in User -&gt; Load -&gt; Textures -&gt; RSBE01<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:2.0in;mso-add-space:auto'><span style='font-family:
@@ -3292,8 +3285,8 @@ Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-fa
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'>Open up <span class=SpellE>BrawlInstaller</span> and set
-your build path to your build's main folder<o:p></o:p></span></p>
+"Times New Roman"'>Open up <span class=SpellE>BrawlInstaller</span> and set your
+build path to your build's main folder<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
@@ -3302,8 +3295,8 @@ Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-fa
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'>Also set your HD Texture Path to Load -&gt; Textures -&gt;
-RSBE01 from earlier<o:p></o:p></span></p>
+"Times New Roman"'>Also set your HD Texture Path to Load -&gt; Textures -&gt; RSBE01
+from earlier<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:2.0in;mso-add-space:auto'><span style='mso-ligatures:
@@ -3313,7 +3306,7 @@ none;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_19"
  <v:imagedata src="index_files/image018.png" o:title="" croptop="5241f"
   cropbottom="51653f" cropleft="45737f" cropright="6239f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=790 height=170
-src="index_files/image019.jpg" v:shapes="Picture_x0020_19"><![endif]></span><span
+src="index_files/image042.jpg" v:shapes="Picture_x0020_19"><![endif]></span><span
 style='font-family:"Aptos Display",sans-serif;mso-ascii-theme-font:major-latin;
 mso-hansi-theme-font:major-latin;mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
 
@@ -3324,8 +3317,8 @@ Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-fa
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'>Click Apply, and <span class=SpellE>BrawlInstaller</span>
-should recognize some things<o:p></o:p></span></p>
+"Times New Roman"'>Click Apply, and <span class=SpellE>BrawlInstaller</span> should
+recognize some things<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
@@ -3334,8 +3327,7 @@ Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-fa
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'>Set the preset to your build, unless the build is already
-pre-configured<o:p></o:p></span></p>
+"Times New Roman"'>Set the preset to your build, unless the build is already pre-configured<o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:0in;margin-left:2.0in;mso-add-space:auto'><span style='font-family:
@@ -3363,15 +3355,15 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_21" o:spid="_x00
  <v:imagedata src="index_files/image021.png" o:title="" croptop="46154f"
   cropbottom="17359f" cropleft="59452f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=472 height=53
-src="index_files/image022.jpg" v:shapes="Picture_x0020_21"><![endif]></span><span
+src="index_files/image043.jpg" v:shapes="Picture_x0020_21"><![endif]></span><span
 style='font-family:"Aptos Display",sans-serif;mso-ascii-theme-font:major-latin;
 mso-hansi-theme-font:major-latin;mso-bidi-font-family:"Times New Roman"'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:1.0in;text-indent:.5in'><span style='font-family:"Aptos Display",sans-serif;
 mso-ascii-theme-font:major-latin;mso-hansi-theme-font:major-latin;mso-bidi-font-family:
-"Times New Roman"'><span style='mso-tab-count:1'>            </span><b><i>Make
-sure to hit &quot;Save&quot;<o:p></o:p></i></b></span></p>
+"Times New Roman"'><span style='mso-tab-count:1'>            </span><b><i>Make sure
+to hit “Save”<o:p></o:p></i></b></span></p>
 
 <p class=MsoListParagraph style='margin-top:0in;margin-right:0in;margin-bottom:
 0in;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;mso-list:l5 level1 lfo14'><![if !supportLists]><span
@@ -3379,9 +3371,9 @@ style='mso-ascii-font-family:Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-
 Aptos;mso-bidi-font-family:Aptos'><span style='mso-list:Ignore'>&gt;<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
 style='font-family:"Aptos Display",sans-serif;mso-ascii-theme-font:major-latin;
-mso-hansi-theme-font:major-latin;mso-bidi-font-family:"Times New Roman"'>Your
-build is now ready to be modified using <span class=SpellE>BrawlInstaller</span>,
-but before you make any changes, you'll want to mark this as your first <span
+mso-hansi-theme-font:major-latin;mso-bidi-font-family:"Times New Roman"'>Your build
+is now ready to be modified using <span class=SpellE>BrawlInstaller</span>, but
+before you make any changes, you'll want to mark this as your first <span
 class=GramE>commit</span> <span class=GramE>in</span> git.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin:0in'><span style='font-family:"Aptos Display",sans-serif;
@@ -3395,8 +3387,8 @@ margin-bottom:8.0pt;margin-left:1.75in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l1 level1 lfo16'><![if !supportLists]><span style='mso-bidi-font-family:
 Aptos;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>1.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>Go
-back to your repository and right-click to select &quot;Open with <span
-class=SpellE>VSCodium</span>&quot;</p>
+back to your repository and right-click to select “Open with <span
+class=SpellE>VSCodium</span>”</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:1.75in;mso-add-space:auto'><span
@@ -3406,15 +3398,15 @@ style='mso-ligatures:none;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pict
  <v:imagedata src="index_files/image023.png" o:title="" croptop="12412f"
   cropbottom="16347f" cropleft="45861f" cropright="3229f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=790 height=596
-src="index_files/image024.jpg" v:shapes="Picture_x0020_22"><![endif]></span></p>
+src="index_files/image044.jpg" v:shapes="Picture_x0020_22"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l5 level1 lfo14'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>When prompted, go ahead and trust the authors,
-since that's you</p>
+</span></span></span><![endif]>When prompted, go ahead and trust the authors, since
+that's you</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;
 margin-left:1.75in'><span style='mso-no-proof:yes'><span
@@ -3424,7 +3416,7 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_23" o:spid="_x00
  mso-wrap-style:square'>
  <v:imagedata src="index_files/image025.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=791 height=633
-src="index_files/image026.png" v:shapes="Picture_x0020_23"><![endif]></span><span
+src="index_files/image045.png" v:shapes="Picture_x0020_23"><![endif]></span><span
 style='mso-no-proof:yes'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-top:0in;margin-right:0in;
@@ -3432,8 +3424,7 @@ margin-bottom:8.0pt;margin-left:1.75in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l1 level1 lfo16'><![if !supportLists]><span style='mso-bidi-font-family:
 Aptos;mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>2.<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>Click
-&quot;Source Control&quot; (The branch-looking icon) and then click &quot;Initialize
-Repository&quot;</p>
+“Source Control” (The branch-looking icon) and then click “Initialize Repository”</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:1.75in;mso-add-space:auto'><span
@@ -3449,8 +3440,8 @@ margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l5 level1 lfo14'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Your sidebar should now look something like
-this. </p>
+</span></span></span><![endif]>Your sidebar should now look something like this.
+</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;
 margin-left:1.75in'><span style='mso-ligatures:none;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
@@ -3465,7 +3456,7 @@ src="index_files/image028.png" v:shapes="Picture_x0020_25"><![endif]></span></p>
 style='mso-ascii-font-family:Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:
 Aptos;mso-bidi-font-family:Aptos'><span style='mso-list:Ignore'>&gt;<span
 style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]>Type
-&quot;Initialize Repository&quot; in the &quot;Message&quot; Box</p>
+“Initialize Repository” in <span class=GramE>the ”Message</span>” Box</p>
 
 <p class=MsoNormal style='margin-right:0in'><o:p>&nbsp;</o:p></p>
 
@@ -3481,12 +3472,12 @@ margin-bottom:8.0pt;margin-left:1.75in;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:1.75in;mso-add-space:auto;text-indent:.25in'>git
-config <span class=SpellE><span class=GramE>user.email</span></span> &quot;YOUR
-EMAIL OR SOMETHING ELSE HERE&quot;</p>
+config <span class=SpellE><span class=GramE>user.email</span></span> “YOUR EMAIL
+OR SOMETHING ELSE HERE”</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:1.75in;mso-add-space:auto;text-indent:.25in'>git
-config user.name &quot;YOUR NAME OR SOMETHING ELSE HERE&quot;</p>
+config user.name “YOUR NAME OR SOMETHING ELSE HERE”</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:1.75in;mso-add-space:auto;text-indent:.25in'><o:p>&nbsp;</o:p></p>
@@ -3504,9 +3495,9 @@ mso-list:l2 level1 lfo18'><![if !supportLists]><span style='mso-ascii-font-famil
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>These commands will set your username and email <span
-class=GramE>contact</span> so git knows who <span class=GramE>authored</span>
-the changes. This makes more sense in a <span class=GramE>collaborate</span>
-setting, as you could imagine.</p>
+class=GramE>contact</span> so git knows who <span class=GramE>authored</span> the
+changes. This makes more sense in a <span class=GramE>collaborate</span> setting,
+as you could imagine.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.5in;mso-add-space:auto;text-indent:-.25in;
@@ -3521,8 +3512,8 @@ margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l5 level1 lfo14'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Click on &quot;Commit&quot;, a warning should
-appear saying there are no staged changes to commit</p>
+</span></span></span><![endif]>Click on “Commit”, a warning should appear saying
+there are no staged changes to commit</p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
@@ -3530,8 +3521,7 @@ mso-list:l5 level1 lfo14'><![if !supportLists]><span style='mso-ascii-font-famil
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span class=GramE>For the purpose of</span> this
-commit, click Yes <b><i>(DO NOT CLICK ALWAYS UNLESS YOU KNOW WHY YOU ARE DOING
-THAT)</i></b></p>
+commit, click Yes <b><i>(DO NOT CLICK ALWAYS UNLESS YOU KNOW WHY YOU ARE DOING THAT)</i></b></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;
 margin-left:1.25in;text-indent:.5in'><span style='mso-ligatures:none;
@@ -3541,7 +3531,7 @@ mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_26" o:spid="_x00
  <v:imagedata src="index_files/image029.png" o:title="" cropbottom="52388f"
   cropleft="40307f" cropright="19054f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=330 height=237
-src="index_files/image030.jpg" v:shapes="Picture_x0020_26"><![endif]></span></p>
+src="index_files/image046.jpg" v:shapes="Picture_x0020_26"><![endif]></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;
 margin-left:1.75in'><span style='mso-ligatures:none;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
@@ -3560,24 +3550,23 @@ margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l9 level1 lfo20'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>This will take time depending on how many files
-your build has (Usually a lot, as you can see here)</p>
+</span></span></span><![endif]>This will take time depending on how many files your
+build has (Usually a lot, as you can see here)</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l9 level1 lfo20'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>I encourage you to take this time to gather any
-mods, fighter packages, or music you'd like to add to your build</p>
+</span></span></span><![endif]>I encourage you to take this time to gather any mods,
+fighter packages, or music you'd like to add to your build</p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l9 level1 lfo20'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>At some point, your sidebar should look like
-this</p>
+</span></span></span><![endif]>At some point, your sidebar should look like this</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;
 margin-left:2.0in'><span style='mso-ligatures:none;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
@@ -3600,17 +3589,17 @@ margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l9 level1 lfo20'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>To play your build, press &quot;Pack SD Card&quot;
-in your dolphin build, then launch as you would normally</p>
+</span></span></span><![endif]>To play your build, press “Pack SD Card” in your
+dolphin build, then launch as you would normally</p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l9 level1 lfo20'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>This will let you track any change you make. As
-an example, I'm going to be installing <a
-href="https://gamebanana.com/mods/644738">Mega Man</a> to my P+EX build</p>
+</span></span></span><![endif]>This will let you track any change you make. As an
+example, I'm going to be installing <a href="https://gamebanana.com/mods/644738">Mega
+Man</a> to my P+EX build</p>
 
 <h3 style='margin-right:0in'>Using Git to track changes </h3>
 
@@ -3619,17 +3608,17 @@ margin-bottom:8.0pt;margin-left:1.5in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l10 level1 lfo22'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>This is going to be a simplification of a few
-good <span class=GramE>uses</span> <span class=GramE>git</span> has for being
-able to effectively Un-Do things in Brawl mod builds</p>
+</span></span></span><![endif]>This is going to be a simplification of a few good
+<span class=GramE>uses</span> <span class=GramE>git</span> has for being able to
+effectively Un-Do things in Brawl mod builds</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:1.5in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l10 level1 lfo22'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><b><i>Please</i></b> read up more on how to use
-git to its fullest here </p>
+</span></span></span><![endif]><b><i>Please</i></b> read up more on how to use git
+to its fullest here </p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
@@ -3663,7 +3652,7 @@ style='mso-ligatures:none;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pict
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="index_files/image033.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=758 height=606
-src="index_files/image034.png" v:shapes="Picture_x0020_29"><![endif]></span><span
+src="index_files/image047.png" v:shapes="Picture_x0020_29"><![endif]></span><span
 style='mso-no-proof:yes'><o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
@@ -3678,18 +3667,17 @@ margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l4 level1 lfo26'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>Open up <span class=SpellE>VSCodium</span>
-again, and have it opened to your repository</p>
+</span></span></span><![endif]>Open up <span class=SpellE>VSCodium</span> again,
+and have it opened to your repository</p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l4 level1 lfo26'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>You'll notice the &quot;Changes&quot; bar has
-been populated again, these are all the file Additions, Removals, and Changes
-that installing the Mega Man <span class=SpellE>fighterpackage</span> made to
-my build</p>
+</span></span></span><![endif]>You'll notice the “Changes” bar has been populated
+again, these are all the file Additions, Removals, and Changes that installing the
+Mega Man <span class=SpellE>fighterpackage</span> made to my build</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;
 margin-left:1.75in;text-indent:.25in'><span style='mso-ligatures:none;
@@ -3706,9 +3694,8 @@ mso-list:l4 level1 lfo26'><![if !supportLists]><span style='mso-ascii-font-famil
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]>At this point, I would test out Mega <span
-class=GramE>Man, and</span> see if he breaks my build. If he breaks my build,
-I'm <span class=SpellE>gonna</span> press the &quot;Discard All Changes&quot;
-button</p>
+class=GramE>Man, and</span> see if he breaks my build. If he breaks my build, I'm
+<span class=SpellE>gonna</span> press the “Discard All Changes” button</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto'><span
@@ -3718,7 +3705,7 @@ style='mso-ligatures:none;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Pict
  <v:imagedata src="index_files/image036.png" o:title="" croptop="3770f"
   cropbottom="52664f" cropleft="39407f" cropright="17842f"/>
 </v:shape><![endif]--><![if !vml]><img border=0 width=437 height=162
-src="index_files/image037.jpg" v:shapes="Picture_x0020_31"><![endif]></span></p>
+src="index_files/image048.jpg" v:shapes="Picture_x0020_31"><![endif]></span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
@@ -3751,9 +3738,9 @@ margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l4 level1 lfo26'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>If I want to roll back to a previous commit,
-because my latest commit broke it, I can <span class=GramE>also hard</span>
-reset my repository back to that commit.</p>
+</span></span></span><![endif]>If I want to roll back to a previous commit, because
+my latest commit broke it, I can <span class=GramE>also hard</span> reset my repository
+back to that commit.</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto'><span
@@ -3779,9 +3766,9 @@ margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l4 level1 lfo26'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>I'm going to copy the commit hash of the commit
-I want to roll back to <b><i>permanently, as this cannot be undone unless you
-have a remote repository to pull from (like from <span class=SpellE>github</span>)</i></b></p>
+</span></span></span><![endif]>I'm going to copy the commit hash of the commit I
+want to roll back to <b><i>permanently, as this cannot be undone unless you have
+a remote repository to pull from (like from <span class=SpellE>github</span>)</i></b></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto'><span
@@ -3800,32 +3787,32 @@ Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roma
 </span></span></span><![endif]>And I'm going to type</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:8.0pt;margin-left:2.5in;mso-add-space:auto'>git reset –hard
-&lt;commit hash I copied earlier&gt;</p>
+margin-bottom:8.0pt;margin-left:2.5in;mso-add-space:auto'>git reset –hard &lt;commit
+hash I copied earlier&gt;</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.5in;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:8.0pt;margin-left:2.5in;mso-add-space:auto'>in the terminal and
-press enter</p>
+margin-bottom:8.0pt;margin-left:2.5in;mso-add-space:auto'>in the terminal and press
+enter</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto;text-indent:-.25in;
 mso-list:l4 level1 lfo26'><![if !supportLists]><span style='mso-ascii-font-family:
 Aptos;mso-fareast-font-family:Aptos;mso-hansi-font-family:Aptos;mso-bidi-font-family:
 Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]>This will revert my build back to the commit I
-labeled as &quot;Import Mega Man&quot;</p>
+</span></span></span><![endif]>This will revert my build back to the commit I labeled
+as “Import Mega Man”</p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:8.0pt;margin-left:1.75in;mso-add-space:auto'><b><i>I am aware
-that this is not best practice when it comes to <span class=GramE>git</span>,
-but it's what I do when making changes on my <span class=GramE>build</span>.
-I'm <span class=GramE>really just</span> using git as an undo button.<o:p></o:p></i></b></p>
+margin-bottom:8.0pt;margin-left:1.75in;mso-add-space:auto'><b><i>I am aware that
+this is not best practice when it comes to <span class=GramE>git</span>, but it's
+what I do when making changes on my <span class=GramE>build</span>. I'm <span
+class=GramE>really just</span> using git as an undo button.<o:p></o:p></i></b></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
 margin-bottom:8.0pt;margin-left:2.0in;mso-add-space:auto'><o:p>&nbsp;</o:p></p>
@@ -3862,10 +3849,9 @@ Aptos'><span style='mso-list:Ignore'>&gt;<span style='font:7.0pt "Times New Roma
 </span></span></span><![endif]>Music set Installations</p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;
-margin-left:1.75in'><i>It isn't <span class=GramE>a very</span> good practice
-to mark &quot;every little thing&quot; as a <span class=GramE>commit</span>.
-Make your change via <span class=SpellE>BrawlInstaller</span>, test it out, and
-if you like it then mark it as a <span class=GramE>commit</span>.<o:p></o:p></i></p>
+margin-left:1.75in'><i>It isn't a very good practice to mark “every little thing”
+as a commit. Make your change via <span class=SpellE>BrawlInstaller</span>, test
+it out, and if you like it then mark it as a <span class=GramE>commit</span>.<o:p></o:p></i></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:8.0pt;
 margin-left:1.75in'><o:p>&nbsp;</o:p></p>
